@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1577645004 source:c:\users\ayşenur akpınar\desktop\dnm3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
